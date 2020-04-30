@@ -1,6 +1,10 @@
-<h1 align="center">
-    <img alt="Github Explorer" src="src/assets/logo.svg" />
-</h1>
+<br />
+<p align="center">
+    <img alt="Github Explorer" src="src/assets/logo.svg" width="80%" />
+</p>
+<br />
+<br />
+<br />
 
 <p align="center">
 
