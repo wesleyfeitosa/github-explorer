@@ -1,44 +1,88 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Github Explorer" src="src/assets/logo.svg" />
+</h1>
 
-## Available Scripts
+<p align="center">
 
-In the project directory, you can run:
+  <a href="LICENSE" style="text-decoration: none">
+    <img alt="License" src="https://img.shields.io/github/license/wesleyfeitosa/github-explorer?style=flat-square" />
+  </a>
 
-### `yarn start`
+  <a href="https://github.com/wesleyfeitosa/github-explorer/issues" style="text-decoration: none">
+    <img alt="Issues" src="https://img.shields.io/github/issues/wesleyfeitosa/github-explorer?style=flat-square" />
+  </a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://github.com/wesleyfeitosa/github-explorer/stargazers" style="text-decoration: none">
+    <img alt="Stars" src="https://img.shields.io/github/stars/wesleyfeitosa/github-explorer?style=flat-square" />
+  </a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <a href="#" style="text-decoration: none">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wesleyfeitosa/github-explorer?style=flat-square" />
+  </a>
 
-### `yarn test`
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <a href="#rocket-technologies"> :rocket: Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-project">💻 Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-deploy">:hammer: Deploy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-how-to-contribute">🤔 How to contribute</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-how-to-run">🔖 How to run</a>&nbsp;&nbsp;
+</p>
 
-### `yarn build`
+<br>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center">
+  <img alt="Frontend" src="frontend/src/assets/banner.png" width="100%">
+</p>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## :rocket: Technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project was developed with the following technologies:
 
-### `yarn eject`
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org)
+- [Styled Components](https://styled-components.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 💻 Project
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This application brings a new way to browse the github api, information about repositories, issues, stars, followers all presented through a modern and clean layout.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<img alt="Homepage" src="src/assets/homepage.png">
+<img alt="Issues" src="src/assets/issues.png">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :hammer: Deploy
 
-## Learn More
+- Frontend: https://stupefied-yalow-ad3bb2.netlify.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤔 How to contribute
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b minha-feature`;
+- Commit your changes: `git commit -m 'feat: Minha nova feature'`;
+- Push to your branch: `git push origin minha-feature`.
+
+After the merge of your pull request is done, you can delete your branch.
+
+## 🔖 How to run
+
+#### Cloning the project
+```sh
+git clone https://github.com/wesleyfeitosa/github-explorer.git
+cd github-explorer
+npm install
+```
+#### Starting Frontend
+```sh
+cd frontend
+npm start
+```
+
+## :memo: License
+
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+
+---
+
+Made with 💜 by Wesley Feitosa :wave:
