@@ -32,10 +32,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src="frontend/src/assets/banner.png" width="100%">
-</p>
-
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
