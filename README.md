@@ -1,8 +1,7 @@
 <br />
 <p align="center">
-    <img alt="Github Explorer" src="src/assets/logo.svg" width="80%" />
+    <img alt="Github Explorer" src="src/assets/logo.svg" width="65%" />
 </p>
-<br />
 <br />
 <br />
 
