@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img alt="Github Explorer" src="src/assets/logo.svg" width="65%" />
+    <img alt="Github Explorer" src="src/assets/logo.svg" width="50%" />
 </p>
 <br />
 <br />
@@ -53,7 +53,7 @@ This application brings a new way to browse the github api, information about re
 
 ## :hammer: Deploy
 
-- Frontend: http://github-explorer.wesleyfeitosa.com.br/
+- Frontend: https://github-explorer.wesleyfeitosa.com.br/
 
 ## 🤔 How to contribute
 
