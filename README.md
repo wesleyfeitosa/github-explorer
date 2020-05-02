@@ -53,7 +53,7 @@ This application brings a new way to browse the github api, information about re
 
 ## :hammer: Deploy
 
-- Frontend: https://stupefied-yalow-ad3bb2.netlify.com
+- Frontend: http://github-explorer.wesleyfeitosa.com.br/
 
 ## 🤔 How to contribute
 
