@@ -3,7 +3,6 @@
     <img alt="Github Explorer" src="src/assets/logo.svg" width="50%" />
 </p>
 <br />
-<br />
 
 <p align="center">
 
